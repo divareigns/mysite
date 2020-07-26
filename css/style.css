@@ -1,0 +1,146 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 5;
+    position: relative;
+}
+#topsection{
+    text-align: center;
+}
+p {
+    line-height: 2;
+}
+
+hr {
+    border: dotted dimgrey 5px;
+    border-top: 0;
+    width: 10%;
+}
+
+a {
+    font-family: ;
+    margin: 0 1em;
+    color: rgb(16, 91, 97);
+    text-decoration: none;
+}
+
+a:hover{
+    color: black ;
+}
+.topportion{
+    height:675px;
+    margin-top: 0;
+    background-color: darkseagreen; 
+    position: relative;
+}
+
+.bottom-container{
+    background-color:darkseagreen;
+    margin: 100px 0 auto auto;
+    padding: 50px 0 0;
+}
+
+.myimg{
+    margin-top: 100px;
+}
+.text{
+    text-decoration: underline;
+}
+
+.para {
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+.foot-para{
+    color: dimgray;
+    margin-top: 50px;
+    margin-bottom: 0;
+    font-size: 10px;
+}
+.diva{
+    
+    color: darkslategrey;
+}
+
+h1{
+    color:rgb(44, 102, 102);  
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Pacifico', cursive;
+    font-size: 45px;
+    line-height: normal;
+
+}
+
+.skillpara{
+    color: dimgrey;
+    size: 2rem;
+}
+
+.skillfont:hover{
+    color: darkseagreen;
+}
+       
+
+
+h2{
+    margin-top: 75px;
+    color:rgb(44, 102, 102);  
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Pacifico', cursive;
+    font-size: 35px;
+    line-height: normal;
+
+}
+h3{
+    size: 20px;
+    font-family: 'Caveat Brush', cursive;
+}
+
+#skillsection{
+    padding: 4% 6%;
+}
+
+.skills{
+    margin-top: 75px;
+}
+
+.star{
+    height: 150px;
+    width: 150px;
+}
+
+
+
+.cloud1{
+    position: absolute;
+}
+.cloud2 {
+    margin-left: 0;
+    position: absolute;
+
+}
+
+
+}
+.skill-row{
+    text-align: center;
+    margin: 75px auto;
+    width: 50%;
+
+}
+
+.skill-img{
+    margin-bottom: 100px;
+    width: 50%;
+    float: left;
+}
+
+.cook-img{
+    border-radius: 80%;
+    float: right;
+}
+
